@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="045d9175-370c-4a8d-97a2-64b9ac9ea321" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/附加、文章涉及到的文档解释/2.行锁.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/一、概览/5.新MySQL MyRrocks引擎变量参数.md" afterPath="$PROJECT_DIR$/一、概览/5.新MySQL MyRrocks引擎变量参数.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/一、概览/6.MyRocks编码约定.md" afterPath="$PROJECT_DIR$/一、概览/6.MyRocks编码约定.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,13 +49,13 @@
       </file>
       <file leaf-file-name="5.新MySQL MyRrocks引擎变量参数.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/一、概览/5.新MySQL MyRrocks引擎变量参数.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="117">
-                <caret line="109" column="24" lean-forward="false" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
+              <first_editor relative-caret-position="255">
+                <caret line="45" column="75" lean-forward="false" selection-start-line="45" selection-start-column="75" selection-end-line="45" selection-end-column="75" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -96,8 +94,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="146" />
+    <option name="x" value="-7" />
+    <option name="y" value="66" />
     <option name="width" value="1241" />
     <option name="height" value="777" />
   </component>
@@ -540,11 +538,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537169684346</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="first commit">
+      <created>1537173241082</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1537173241082</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="146" width="1241" height="777" extended-state="0" />
+    <frame x="-7" y="66" width="1241" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30692244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1130,13 +1135,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/一、概览/5.新MySQL MyRrocks引擎变量参数.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="117">
-            <caret line="109" column="24" lean-forward="false" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
+          <first_editor relative-caret-position="255">
+            <caret line="45" column="75" lean-forward="false" selection-start-line="45" selection-start-column="75" selection-end-line="45" selection-end-column="75" />
             <folding />
           </first_editor>
           <second_editor />
