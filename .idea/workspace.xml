@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="045d9175-370c-4a8d-97a2-64b9ac9ea321" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/附加、文章涉及到的文档解释/2.行锁.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/一、概览/4.MyRocks限制.md" afterPath="$PROJECT_DIR$/一、概览/4.MyRocks限制.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/一、概览/5.新MySQL MyRrocks引擎变量参数.md" afterPath="$PROJECT_DIR$/一、概览/5.新MySQL MyRrocks引擎变量参数.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/一、概览/6.MyRocks编码约定.md" afterPath="$PROJECT_DIR$/一、概览/6.MyRocks编码约定.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,15 +33,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.行锁.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2.行锁.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/附加、文章涉及到的文档解释/2.行锁.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="247">
-                <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -47,63 +49,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.MyRocks入门.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/一、概览/1.MyRocks入门.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="220">
-                <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4.MyRocks限制.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/一、概览/4.MyRocks限制.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="194">
-                <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.在表分区上配置 Column Families列族.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/附加、文章涉及到的文档解释/1.在表分区上配置 Column Families列族.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="22">
-                <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="5.新MySQL MyRrocks引擎变量参数.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="5.新MySQL MyRrocks引擎变量参数.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/一、概览/5.新MySQL MyRrocks引擎变量参数.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="117">
+                <caret line="109" column="24" lean-forward="false" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -130,6 +84,8 @@
         <option value="$PROJECT_DIR$/一、概览/3.MyRocks优于InnoDB.md" />
         <option value="$PROJECT_DIR$/一、概览/4.MyRocks限制.md" />
         <option value="$PROJECT_DIR$/附加、文章涉及到的文档解释/2.行锁.md" />
+        <option value="$PROJECT_DIR$/一、概览/6.MyRocks编码约定.md" />
+        <option value="$PROJECT_DIR$/一、概览/5.新MySQL MyRrocks引擎变量参数.md" />
       </list>
     </option>
   </component>
@@ -141,7 +97,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="39" />
-    <option name="y" value="23" />
+    <option name="y" value="146" />
     <option name="width" value="1241" />
     <option name="height" value="777" />
   </component>
@@ -577,11 +533,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537153374506</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first commit">
+      <created>1537169684346</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1537169684346</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="23" width="1241" height="777" extended-state="6" />
+    <frame x="39" y="146" width="1241" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30692244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -733,19 +696,6 @@
         <state relative-caret-position="22">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/一、概览/6.MyRocks编码约定.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1067,20 +1017,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/一、概览/1.MyRocks入门.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="220">
-            <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/一、概览/2.如何报告错误并寻求帮助.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1123,28 +1059,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/一、概览/5.新MySQL MyRrocks引擎变量参数.md">
+    <entry file="file://$PROJECT_DIR$/一、概览/1.MyRocks入门.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/一、概览/4.MyRocks限制.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="194">
-            <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <first_editor relative-caret-position="22">
+            <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1165,14 +1087,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/一、概览/4.MyRocks限制.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="194">
+            <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/一、概览/6.MyRocks编码约定.md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="132">
+            <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/附加、文章涉及到的文档解释/2.行锁.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="247">
-            <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/一、概览/5.新MySQL MyRrocks引擎变量参数.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="117">
+            <caret line="109" column="24" lean-forward="false" selection-start-line="109" selection-start-column="24" selection-end-line="109" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />
