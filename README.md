@@ -13,5 +13,3 @@ MyRocks 文档翻译
 # 原文出自
 
 * FaceBook MyRocks Wiki : https://github.com/facebook/mysql-5.6/wiki
-
-aa
